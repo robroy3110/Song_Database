@@ -9,7 +9,7 @@ Made by: Robert Cachapa and Inês Marques [![GitHub Repo](https://img.shields.io
 
 2. **Second step**  
    Make a query about the songs ex:
-   ![query](https://img.shields.io/badge/-black?logo=github](https://github.com/user-attachments/assets/af34157b-a296-4e48-998d-a50127a1cbb5)
+   ![query](https://github.com/user-attachments/assets/af34157b-a296-4e48-998d-a50127a1cbb5)
 
    This query returns the amount of songs in the files that were released in the year 2000
 
